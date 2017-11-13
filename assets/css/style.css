@@ -9,9 +9,30 @@
 
 body {
 	background-color: #ffffff;
+
+}
+ h1 {
+      padding: 10px;
+      font-family: 'Georgia', Times, Times New Roman, serif;
+      font-size: 35px;
+      background-color: #ffffff;
+      color: #4682B4;
+    }
+
+.auth-image {
+  float: left;
+  width: 200px;
+  height: auto;
+  margin-top: 10px;
+  margin-right: 25px;
 }
 
+.background {
+	height:100%;
+	width: auto;
+}
 footer {
+
 	padding-top: 40px 0;
 	clear: both;
 	text-align: center;
@@ -20,7 +41,11 @@ footer {
 	border-color: #4682B4;
 	border-width: 5px;
 	font-size: 15px;
-	color: white;
+	color: #ffffff;
 	height: 100px;
 	width: auto;
 	}
+
+.copyright {
+	color: #ffffff;
+}
